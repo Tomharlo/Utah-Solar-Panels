@@ -7,8 +7,7 @@ This is a list of Utah solar panels found in Utah. Solar panel companies in Utah
 who you can contact to get Utah solar panels installed on your house.
 
 Utah Solar Companies:
-http://getglass.solar
-<a hrefs="http://getglass.solar/">Glass Solar</a>
 [Glass Solar](http://getglass.solar/)
+etc...
 
 Hopefully you found this list of Utah solar panel providers valuable in your search for Utah solar panels
